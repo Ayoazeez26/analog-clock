@@ -1,5 +1,13 @@
 html {
   background: #dedede;
+  font-family: 'sans-serif';
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 svg {
