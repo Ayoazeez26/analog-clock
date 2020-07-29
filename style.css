@@ -82,7 +82,7 @@ svg {
 
 .seconds {
   stroke-width: 0.3;
-  stroke: #d00505;
+  stroke: #DF8C95;
   transform: translate(20px, 20px) rotate(calc(var(--start-seconds) * 6deg));
   animation: rotateSecondsHand 60s steps(60) infinite;
 }
